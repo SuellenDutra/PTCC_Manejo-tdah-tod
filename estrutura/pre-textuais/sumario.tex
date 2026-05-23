@@ -1,0 +1,20 @@
+% ----------------------------------------------------------------------------
+%                                  SUMÁRIO
+% ----------------------------------------------------------------------------
+% Este arquivo não precisa ser alterado, pois o sumário é gerado automaticamente.
+
+% ---
+% Forçar o abntex2 a exibir seções e subseções no sumário
+% ---
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+
+% Comando específico do abntex2 para reconfigurar a profundidade
+\makeatletter
+\settocdepth{subsubsection}
+\makeatother
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
