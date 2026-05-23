@@ -70,4 +70,4 @@ Como desdobramento e continuidade do trabalho, está firmada uma articulação i
 * **Orientador(a):** Prof(a). Gustavo Henrique Dornelas de Deus
 
 ---
-Este projeto foi desenvolvido como parte dos requisitos para obtenção do título de [Tecnólogo] em [Tecnologia em Sistemas para Internet] pelo Instituto Federal de Brasília.
+Este projeto foi desenvolvido como parte dos requisitos para obtenção do título de Tecnólogo em Tecnologia em Sistemas para Internet pelo Instituto Federal de Brasília.
