@@ -37,8 +37,7 @@ A plataforma substitui o modelo tradicional de "registro passivo" e punitivo por
 
 O comportamento estrutural das interações e a fronteira do sistema foram modelados utilizando a notação oficial UML através do PlantUML:
 
-![Diagrama de Casos de Uso](assets/nome-do-seu-diagrama.png)  
-*Nota: Substitua o caminho acima pelo link ou pasta onde salvou a imagem do diagrama no repositório.*
+![Diagrama de Casos de Uso](casoDeUso.png)  
 
 ---
 
@@ -46,7 +45,7 @@ O comportamento estrutural das interações e a fronteira do sistema foram model
 
 As interfaces foram concebidas seguindo as melhores práticas de UX/UI (*User Experience / User Interface*), priorizando a acessibilidade, espaçamento em branco (*white space*) e áreas de toque facilitadas para dispositivos móveis.
 
-* [Acesse aqui o Protótipo de Alta Fidelidade no Figma](LINK_DO_SEU_FIGMA_AQUI)
+* [Acesse  o Protótipo de Alta Fidelidade do Figma na aba](figuras).
 
 ---
 
@@ -69,8 +68,8 @@ Como desdobramento e continuidade do trabalho, está firmada uma articulação i
 
 ## 👤 Autor
 
-* **[Seu Nome Completo]** - *Idealização e Desenvolvimento* - [[Seu GitHub](https://github.com/seu-usuario)]
-* **Orientador(a):** Prof(a). [Nome do Orientador]
+* **[Suellen Maciel Dutra]** - *Idealização e Desenvolvimento* - [[Seu GitHub](https://github.com/seu-usuario)]
+* **Orientador(a):** Prof(a). [Gustavo Henrique Dornelas de Deus]
 
 ---
-Este projeto foi desenvolvido como parte dos requisitos para obtenção do título de [Bacharel/Tecnólogo] em [Seu Curso] pela instituição [Nome da Faculdade/Universidade].
+Este projeto foi desenvolvido como parte dos requisitos para obtenção do título de [Tecnólogo] em [Tecnologia em Sistemas para Internet] pela [Instituto Federal de Brasília].
